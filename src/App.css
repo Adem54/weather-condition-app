@@ -53,6 +53,7 @@ body {
 .active {
   background-color: lightcyan;
   border-radius: .5rem;
+
 }
 
 .cities {
@@ -84,4 +85,5 @@ body {
   .weather {
     flex-wrap: wrap;
   }
+ 
 }
